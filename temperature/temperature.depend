@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706183788 source:c:\users\hmouh\desktop\cours de c\temperature\main.c
+	<stdio.h>
+	<stdlib.h>
+
